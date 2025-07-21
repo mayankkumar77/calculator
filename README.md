@@ -1,1 +1,1 @@
-# calculator
+I had created this project (calculator) to practice and apply my foundational knowledge of web development. It performs simple arithmetic operations like addition, subtraction, multiplication, and division with a clean and user-friendly interface.
